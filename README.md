@@ -94,7 +94,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new imple
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 ## Contact
 
