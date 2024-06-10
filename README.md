@@ -98,7 +98,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to contact me through [agnipradeep19@gmail.com]
+If you have any questions, suggestions, or feedback, feel free to contact me.
 
 Happy coding!
 
