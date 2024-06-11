@@ -1,4 +1,3 @@
-```markdown
 # Longest Common Subsequence (LCS) Algorithm
 
 This program finds the longest common subsequence between two given strings using dynamic programming.
